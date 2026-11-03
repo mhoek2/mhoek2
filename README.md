@@ -1,6 +1,5 @@
 ## About Me
 I'm a passionate software developer. I enjoy building efficient and scalable applications, whether it's frontend interfaces or backend logic.
-I value to do things right, even if it means taking a little extra time doing just that. 
 
 My interest in computers and software originated ~20 years ago, I started tinkering with high-level languages such as, Javascript, HTML, CSS. Back then, I primarily focused on web-development, yet gradually expanded my knowledge to PHP, databases, web servers, Linux, and virtualisation technologies.
 
